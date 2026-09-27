@@ -4,7 +4,7 @@
 **Group:** SE-2538  
 **Course:** Web Technologies / Front-End Development  
 **Project:** Personal Portfolio Page  
-**Repository:** [Your GitHub Repository Link]
+**Repository:** https://github.com/Tokisao/Assignment2-Portfolio
 
 ---
 
